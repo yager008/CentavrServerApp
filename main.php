@@ -1,5 +1,4 @@
 <?php
-// почему-то не получается правильное отображение screenshot.bmp так что успел сделать только локально
 echo "
 <div style='text-align: center; margin-top: 30px;'>
     <div style='font-size: 20px; font-weight: bold; margin-bottom: 10px;'>СКРИНШОТ</div>
